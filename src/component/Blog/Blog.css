@@ -1,0 +1,49 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css");
+
+section{
+    min-height: 100vh;
+    background-color: #000;
+}
+.card3{
+    background-image: url('../../assets/bgone.png');
+    background-size: cover;
+    position: center;
+    border-radius: 10px;
+}
+.card4{
+    background-image: url('../../assets/Bgtwo.png');
+    background-size: cover;
+    position: center;
+    border-radius: 10px;
+}
+.card5{
+    background-image: url('../../assets/bgthree.png');
+    background-size: cover;
+    position: center;
+    border-radius: 10px;
+}
+.card6{
+    background-image: url('../../assets/bgfour.png');
+    background-size: cover;
+    position: center;
+    border-radius: 10px;
+}
+.card-img-top{
+    border-radius: 10px;
+    width: 100%;
+    height: 30%;
+}
+.div{
+    margin:20px auto;
+}
+.para{
+    text-align: justify;
+    color: #A7B2CF;
+    padding: 5px;
+}
+.fa-solid {
+    color:#fff;
+}
+.left{
+    text-align: left;
+}

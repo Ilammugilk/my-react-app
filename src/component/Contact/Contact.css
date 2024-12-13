@@ -1,0 +1,55 @@
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css");
+.card-con{
+    border: 1px solid #333333;
+    background-color: #0E0F13;
+    border-radius: 15px;
+}
+section{
+        min-height: 80vh;
+        background-color: #000;
+    };
+.card-con span{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 300;
+line-height: 26.93px;
+letter-spacing: -0.39px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:#C7C9D1;
+}
+
+.card-con input{
+    border: 1px solid #333333;
+    background-color: #0E0F13;
+}
+.card-con .btn{
+    background: #2029C8;
+    border: 1px solid #4F4F4F;
+    border-radius: 10px;
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 400;
+    padding: 15px;
+    width: 423px;
+    color:white;
+    margin-bottom: 10px;
+}
+
+.fa-regular{
+    color:#2029C8;
+    font-size: 200%;
+}
+.fa{
+    color:#2029C8;
+    font-size: 200%;
+}
+
+.span{
+    margin-left: 20px;
+    text-align: justify;
+    color: #BCC3D7;
+    font-size: 15px;
+}

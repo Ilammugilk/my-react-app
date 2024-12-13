@@ -1,0 +1,24 @@
+.box1 {
+    background-image: url('../../assets/Figure.png');
+    background-size: cover;
+    position: center;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.slick-slide >div{
+    margin: 0 10px;
+}
+.body p{
+    text-align: justify;
+    padding: 10px;
+}
+.test{
+    min-height: 80vh;
+    background-color: #000;
+}
+.margin{
+    margin: 40px auto auto 10px;
+}

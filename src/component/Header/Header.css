@@ -1,0 +1,87 @@
+
+header{
+    min-height: 80vh;
+    background: url('../../assets/Background.jpg');
+    background-size: cover;
+}
+h2 {
+    background: linear-gradient(90deg, #909DC1 0%, #3663DE 100%);
+    text-align: center;
+    background-size: 200%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Figtree;
+    font-size: 40px;
+    font-weight: 600;
+}
+h1 span{
+    background: linear-gradient(90deg, #FFFFFF 0%, #82AAFF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+header h1{
+    font-family: Figtree;
+    font-size: 60px;
+    font-weight: 600;
+    text-align: left;
+}
+header p{
+font-family: Figtree;
+font-size: 13px;
+font-weight: 400;
+text-align: left;
+text-align: justify;
+text-justify: inter-word;
+color: #F3EBFD;
+}
+header .btn{
+font-family: Inter;
+font-size: 10px;
+font-weight: 400;
+gap: 0px;
+padding:10px 20px 10px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: #302A2A;
+border: 1px solid #4F4F4F;
+border-radius:20px;
+}
+.content{
+    width: 758px;
+height: 455px;
+margin-top: 190px;
+gap: 0px;
+opacity: 0px;
+}
+header h5{
+margin-top:130px;
+font-size: 10px;
+}
+.trusty{
+    margin-top: 0;
+    margin-left: 80px;
+}
+img{
+    width: 100px;
+}
+.Mask{
+    height: 40px;
+}
+.bridge{
+    height: 40px;
+}
+.opti{
+    height: 40px;
+}
+.logo{
+    height: 40px;
+}
+.row .about{
+    margin-left: 80px;
+}
+.about h1{
+    text-align: center;
+    margin-top: 30px;
+}

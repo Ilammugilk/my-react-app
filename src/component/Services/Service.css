@@ -1,0 +1,91 @@
+section {
+    min-height: 100vh;
+    background-color: #000;
+}
+
+.card1 {
+    background: linear-gradient(0deg, #171717, #171717),
+        linear-gradient(180deg, #2E2E2E 0%, rgba(46, 46, 46, 0.5) 100%);
+    border-radius: 11px;
+    opacity: 0px;
+    border: 1px solid rgba(46, 46, 46, 0.5);
+}
+
+.card1 img {
+    width: 100%;
+    height: 35%;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-body a {
+    text-decoration: none;
+    color: #A7B2CF;
+    font-family: Figtree;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.card-texts {
+    font-family: Figtree;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #A7B2CF;
+    text-align: justify;
+}
+
+.card-title {
+    font-family: Figtree;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #FAFAFA;
+}
+p {
+    font-family: Figtree;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: left;
+    color: #A7B2CF;
+}
+
+.img-fuild {
+    width: 100%;
+    height: 85%;
+    padding: 20px;
+    margin-top:10%;
+}
+.head2{
+    background: linear-gradient(to right, #909DC1 0%, #3663DE 100%);
+    text-align: left;
+    background-size: 200%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Figtree;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.head {
+    background: linear-gradient(to right, #909DC1 0%, #3663DE 100%);
+    text-align: center;
+    background-size: 200%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Figtree;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.about{
+    height: auto;
+    width: 65%;
+    margin-top: 18%;
+}
